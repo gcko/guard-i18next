@@ -19,7 +19,7 @@ Add it to your Gemfile:
 
 Add the guard definition to your Guardfile by running this command:
 
-    guard init i18n
+    guard init i18next
 
 == Usage
 
